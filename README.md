@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- ENCABEZADO Y PRESENTACIÓN -->
-  <h1>¡Hola! Soy Victor Aron Muñoz Dioses 👋</h1>
+  <h1>¡Hola! Soy Victor (Victy_04) 👋</h1>
   <h3>Ingeniero de Soporte de TI | Especialista en Redes, Servidores & Infraestructura</h3>
 
   <p>
