@@ -1,93 +1,144 @@
-# Hi there, I'm Bilgehan - aka [Bgstatic][website] <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
+<div align="center">
 
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+  <h1>Hola 👋, soy Orlando (unsimpleDev)</h1>
+  <p><em>Ingeniero en Informática • Creador de Contenido • Arquitecto & Desarrollador Software</em></p>
 
-## I'm a Computer Science and Engineering Student  
-
-- 👨‍💻 I’m currently working on web development technologies like JavaScript, React etc.
-- 📚 I’m currently learning everything about Frontend and Backend technologies 😅
-- 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
-- ⚡ Fun fact: I love to play pool and snooker 🎱.
-
----
-
-<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
-
-### Spotify Playing 🎧
-
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/11153360645)
-
----
-
-<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Bgstatic&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/>
-
-### Contact with me 📝
-
-[<img align="left" alt="bilgehangecici.site" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/2996/2996826.svg" />][website]
-[<img align="left" alt="bilgehangecici | LinkedIn" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>][linkedin]
-[<img align="left" alt="bilgehangecici | Instagram" height="30px" src="https://image.flaticon.com/icons/svg/725/725278.svg" />][instagram]
-[<img align="left" alt="bilgehangecici | Spotify" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725281.svg" />][Spotify]
-
-<br />
-
----
-
-### Languages and Tools 🛠 
-
-![Java](http://img.shields.io/badge/-Java-5B4638?style=flat-square&logo=java&logoColor=ffffff)
-![C](http://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=ffffff)
-![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=ffffff)
-![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
-![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap)
-![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown)
-![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=ffffff)
-![Npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=ffffff)
-![Microsoft Sql Server](https://img.shields.io/badge/-Sql%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=ffffff)
-![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
-![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
-![Eclipse-IDE](http://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=ffffff)
-![Powershell](http://img.shields.io/badge/-Powershell-5391FE?style=flat-square&logo=powershell&logoColor=ffffff)
-![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
-
-<br/>
-
----
-
-<br/>
-
-  <h2 align="center"> Github Statistics 📈 </h2>
-  
-  <div align="center"> 
-     <a href="">
-      <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Bgstatic&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=40" />
+  <!-- Badges de Redes Sociales -->
+  <p align="center">
+    <a href="https://www.youtube.com/@unsimpledev" target="_blank">
+      <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
     </a>
-    <a href="">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bgstatic&theme=react&line_height=40&hide=css"/>
+    <a href="https://linkedin.com/in/unsimpledev" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-</div
+    <a href="https://www.tiktok.com/@unsimpledev" target="_blank">
+      <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
+    </a>
+    <a href="https://fb.com/unsimpledev" target="_blank">
+      <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+    </a>
+    <a href="mailto:unsimpledev@gmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    </a>
+  </p>
 
-<br/>
+</div>
 
 ---
 
-### ⭐️ From [Bgstatic](https://github.com/Bgstatic) ### 
+### 🚀 Sobre mí
+
+- 🎓 **Ingeniero en Informática** apasionado por la tecnología y la innovación.
+- 🎥 **Creador de Contenido**: Comparto conocimientos y experiencias de desarrollo a través de mis redes sociales.
+- 💻 **+15 años de experiencia** en el ciclo completo de desarrollo de software.
+- 📝 **Trayectoria variada**: Desarrollador, Líder Técnico, Arquitecto de Software, Cofundador y Freelance.
+- 🎯 **Meta**: Continuar aprendiendo, enseñando y creando proyectos con gran impacto.
+- 📫 **Contacto**: `unsimpledev@gmail.com`
 
 ---
 
-[website]: http://bilgehangecici.site/
-[instagram]: https://www.instagram.com/bilgehangecici
-[linkedin]: https://www.linkedin.com/in/bilgehan-geçici-8b368614a/
-[Spotify]: https://open.spotify.com/user/11153360645
+### 🛠️ Tecnologías y Herramientas
 
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=androidstudio,c,cs,cpp,java,php,dart,flutter,py,dotnet,css,html,js,nodejs,mysql,sqlite,firebase,git,github,docker,materialui,postman,vscode,bash,linux&perline=13" alt="Tech Stack" />
+  </a>
+</p>
 
-----
-Credit: [Bgstatic](https://github.com/Bgstatic)
+---
 
-Last Edited on: 23/09/2020
+### 📂 Proyectos Destacados
+
+<table align="center">
+  <tr>
+    <td width="25%" align="center">
+      <h4>SMS Gateway</h4>
+      <a href="https://youtu.be/rISmdhlhOPM" target="_blank">
+        <img width="100%" src="https://raw.githubusercontent.com/unsimpledev/unsimpledev/main/assets/smsgateway.webp" alt="SMS Gateway Project" />
+      </a>
+      <p>
+        <a href="https://youtu.be/rISmdhlhOPM" target="_blank">
+          <img src="https://img.shields.io/badge/Video-FF0000?style=flat-square&logo=youtube&logoColor=white" />
+        </a>
+        <a href="https://github.com/unsimpledev/ProyectoSMSGateway" target="_blank">
+          <img src="https://img.shields.io/badge/Código-100000?style=flat-square&logo=github&logoColor=white" />
+        </a>
+      </p>
+    </td>
+    <td width="25%" align="center">
+      <h4>Android Notif.</h4>
+      <a href="https://youtu.be/fiUkA2OZQjs" target="_blank">
+        <img width="100%" src="https://raw.githubusercontent.com/unsimpledev/unsimpledev/main/assets/notifandroid.webp" alt="Android Notifications Project" />
+      </a>
+      <p>
+        <a href="https://youtu.be/fiUkA2OZQjs" target="_blank">
+          <img src="https://img.shields.io/badge/Video-FF0000?style=flat-square&logo=youtube&logoColor=white" />
+        </a>
+        <a href="https://github.com/unsimpledev/ProyectoNotificaciones" target="_blank">
+          <img src="https://img.shields.io/badge/Código-100000?style=flat-square&logo=github&logoColor=white" />
+        </a>
+      </p>
+    </td>
+    <td width="25%" align="center">
+      <h4>Mi ChatGPT</h4>
+      <a href="https://youtu.be/py31Y1Ku4Es" target="_blank">
+        <img width="100%" src="https://raw.githubusercontent.com/unsimpledev/unsimpledev/main/assets/chatgptapp.webp" alt="ChatGPT App Project" />
+      </a>
+      <p>
+        <a href="https://youtu.be/py31Y1Ku4Es" target="_blank">
+          <img src="https://img.shields.io/badge/Video-FF0000?style=flat-square&logo=youtube&logoColor=white" />
+        </a>
+        <a href="https://github.com/unsimpledev/MiChatGPT" target="_blank">
+          <img src="https://img.shields.io/badge/Código-100000?style=flat-square&logo=github&logoColor=white" />
+        </a>
+      </p>
+    </td>
+    <td width="25%" align="center">
+      <h4>Traductor AI</h4>
+      <a href="https://youtu.be/FbQtooM3UIs" target="_blank">
+        <img width="100%" src="https://raw.githubusercontent.com/unsimpledev/unsimpledev/main/assets/traductorchatgpt.webp" alt="Traductor ChatGPT Project" />
+      </a>
+      <p>
+        <a href="https://youtu.be/FbQtooM3UIs" target="_blank">
+          <img src="https://img.shields.io/badge/Video-FF0000?style=flat-square&logo=youtube&logoColor=white" />
+        </a>
+        <a href="https://github.com/unsimpledev/MiTraductor" target="_blank">
+          <img src="https://img.shields.io/badge/Código-100000?style=flat-square&logo=github&logoColor=white" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📈 Estadísticas de GitHub
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=unsimpledev&show_icons=true&theme=dark&count_private=true&hide_border=true" alt="Estadísticas de GitHub" />
+      </td>
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=unsimpledev&theme=dark&layout=compact&hide_border=true" alt="Lenguajes más usados" />
+      </td>
+    </tr>
+  </table>
+
+  <br />
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=unsimpledev&theme=dark&hide_border=true" alt="Racha de contribuciones" />
+
+  <br /><br />
+
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img width="85%" src="https://github-profile-trophy.vercel.app/?username=unsimpledev&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="Trofeos de GitHub" />
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <sub>Diseñado con ❤️ por <a href="https://github.com/unsimpledev">@unsimpledev</a></sub>
+</div>
